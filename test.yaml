@@ -1,0 +1,4 @@
+kind: configMap
+metadata:
+  name: test
+  namespace: default
